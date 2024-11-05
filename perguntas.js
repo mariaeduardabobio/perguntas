@@ -27,8 +27,45 @@ criaCartao(
     'Quantas rodadas são disputadas no campeonato brasileiro?',
     'São 38 rodadas'
 )
+
 criaCartao(
-    'Matemática',
-    'O que diz o teorema de pitágoras?',
-    'Em todo triângulo retângulo a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa'
+    'Corinthians',
+    'Em que ano o Corinthians foi fundado',
+    'No ano de 1910'
+)
+
+criaCartao(
+    'Corinthians',
+    'Quantos campeonatos brasileiros o Corinthians conquistou?',
+    '7 campeonatos'
+)
+
+criaCartao(
+    'Corinthians',
+    'Em que ano o Corinthians ganhou a primeira Libertadores?',
+    'Em 2012'
+)
+
+criaCartao(
+    'Corinthians',
+    'Em que ano o Corinthians foi fundado',
+    'No ano de 1910'
+)
+
+criaCartao(
+    'Corinthians',
+    'Em que ano o Corinthians foi fundado',
+    'No ano de 1910'
+)
+
+criaCartao(
+    'Corinthians',
+    'Em que ano o Corinthians foi fundado',
+    'No ano de 1910'
+)
+
+criaCartao(
+    'Corinthians',
+    'Em que ano o Corinthians foi fundado',
+    'No ano de 1910'
 )
