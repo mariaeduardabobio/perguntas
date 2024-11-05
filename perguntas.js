@@ -48,24 +48,24 @@ criaCartao(
 
 criaCartao(
     'Corinthians',
-    'Em que ano o Corinthians foi fundado',
-    'No ano de 1910'
+    'Qual ano foi ganho o primeiro brasileiro?',
+    'Em 1990'
 )
 
 criaCartao(
     'Corinthians',
-    'Em que ano o Corinthians foi fundado',
-    'No ano de 1910'
+    'Quais são os 3 maiores rivais do Corinthians',
+    'Palmeiras, São Paulo e Santos'
 )
 
 criaCartao(
     'Corinthians',
-    'Em que ano o Corinthians foi fundado',
-    'No ano de 1910'
+    '',
+    ''
 )
 
 criaCartao(
     'Corinthians',
-    'Em que ano o Corinthians foi fundado',
-    'No ano de 1910'
+    '',
+    ''
 )
